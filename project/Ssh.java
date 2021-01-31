@@ -6,8 +6,8 @@ import java.io.*;
 
 public class Ssh {
    public static void main(String[] args) {
-      String username = "sbanda";	//Login UserID
-      String projPath = "/cise/homes/sbanda/CN/project"; // path of the project where PeerProcess binary
+      String username = "dreddy";	//Login UserID
+      String projPath = "/cise/homes/dreddy/CN/project"; // path of the project where PeerProcess binary
                                                               // is
       String pubKey = "rsakey"; // location of the generated key
       try {
